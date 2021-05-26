@@ -1,4 +1,4 @@
-# List of repos
+# List of repos of [lcsm29](https://github.com/lcsm29)
 ## Courses
 - [MIT6.0001](https://github.com/lcsm29/MIT6.0001)
 - [MIT6.0002](https://github.com/lcsm29/MIT6.0002)
