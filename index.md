@@ -2,7 +2,7 @@
 ## Courses
 - [edx-mit-6.00.1x](https://github.com/lcsm29/edx-mit-6.00.1x): MIT 6.00.1x on edX (Q2 2021 Course)
   - Introduction to Computer Science and Programming Using Python
-- [goog-mlcc](https://github.com/lcsm29/goog-mlcc): Machine Learning Crash Course | Google Developers
+- [goog-mlcc](https://github.com/lcsm29/goog-mlcc): Google Developers Machine Learning Crash Course
 - [MIT6.0001](https://github.com/lcsm29/MIT6.0001): MIT OpenCourseWare 6.0001 (Fall 2016 Course)
   - Introduction to Computer Science and Programming in Python
 - [MIT6.0002](https://github.com/lcsm29/MIT6.0002): MIT OpenCourseWare 6.0002 (Fall 2016 Course)
