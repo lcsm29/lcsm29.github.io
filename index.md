@@ -9,6 +9,8 @@
   - Introduction to Computational Thinking and Data Science
 
 ## Solutions
+- [codewars](https://github.com/lcsm29/codewars)
+  - My solutions for Codewars kata in Python
 - [project-euler](https://github.com/lcsm29/project-euler)
   - My solutions for Project Euler problems in Python, C, C++, C#, F#, Go, Haskell, Java, JavaScript, PHP, Ruby, SQL
 
